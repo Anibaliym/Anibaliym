@@ -12,7 +12,7 @@
 - **DevOps & Tools:** Git (Github, Gitlab, Bitbucket), Azure Repos, Jira, CI/CD Pipelines  
 
 ### 📚 What I'm currently working on  
-- [My Account App](https://github.com/Anibaliym/my-repository-app-frontend) - A powerful application to manage personal finances.  
+- [My Account App](https://github.com/Anibaliym/my-account-app-frontend) - A powerful application to manage personal finances.  
 - [My Repository App](https://github.com/Anibaliym/my-repository-app-frontend) - A portfolio to showcase my projects and skills.  
 
 ### 📫 Let's Connect  

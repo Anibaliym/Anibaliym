@@ -8,8 +8,8 @@
 ### 🌟 Technologies & Tools  
 - **Frontend:** React, JavaScript, HTML/CSS, Bootstrap  
 - **Backend:** .NET Core 8, C#, Entity Framework Core  
-- **Database:** PostgreSQL, SQL Server, MySQL  
-- **DevOps & Tools:** Git, Azure Repos, Jira, CI/CD Pipelines  
+- **Database:** PostgreSQL, SQL Server, MySQL, Oracle  
+- **DevOps & Tools:** Git (Github, Gitlab, Bitbucket), Azure Repos, Jira, CI/CD Pipelines  
 
 ### 📚 What I'm currently working on  
 - [My Account App](https://github.com/Anibaliym/my-repository-app-frontend) - A powerful application to manage personal finances.  

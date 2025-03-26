@@ -13,7 +13,7 @@
 
 ### 📚 What I'm currently working on  
 - [My Account App](https://github.com/Anibaliym/my-account-app-frontend) - A powerful application to manage personal finances.  
-- [My Repository App](https://github.com/Anibaliym/my-repository-app-frontend) - A portfolio to showcase my projects and skills.  
+- [My Portfolio App](https://github.com/Anibaliym/my-portfolio-app-frontend) - A portfolio to showcase my projects and skills.  
 
 ### 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/anibal-ya%C3%B1ez-moraga-568b67113/)  

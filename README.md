@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Anibal Yáñez  
-### Fullstack Developer | .NET & React Specialist  
+### Fullstack Developer | .NET & Javascript Specialist  
 
 🚀 Passionate about building scalable applications using modern technologies.  
-💼 Specializing in .NET Core, React, PostgreSQL, and Microservices architecture.  
+💼 Specializing in .NET, SQL Server, and Microservices architecture.  
 🌎 Looking to collaborate with international companies and showcase my skills.  
 
 ### 🌟 Technologies & Tools  
@@ -12,9 +12,9 @@
 - **DevOps & Tools:** Git, Azure Repos, Jira, CI/CD Pipelines  
 
 ### 📚 What I'm currently working on  
-- [My Account App](https://github.com/Anibaliy/my-account-app-frontend) - A powerful application to manage personal finances.  
-- [My Repository App](https://github.com/Anibaliy/my-repository-app-frontend) - A portfolio to showcase my projects and skills.  
+- [My Account App](https://github.com/Anibaliym/my-repository-app-frontend) - A powerful application to manage personal finances.  
+- [My Repository App](https://github.com/Anibaliym/my-repository-app-frontend) - A portfolio to showcase my projects and skills.  
 
 ### 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
-- 📧 anibal@example.com  
+- [LinkedIn](https://www.linkedin.com/in/anibal-ya%C3%B1ez-moraga-568b67113/)  
+- 📧 Anibaliym@gmail.com  

@@ -17,5 +17,5 @@
 
 ### 📫 Let's Connect  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/anibal-ya%C3%B1ez-moraga-568b67113/)  
-- 🌐 [yaanez.cl](https://yaanez.cl) — ¡Visita mi página personal!
+- 🌐 [ayanez.cl](https://ayanez.cl) — Visit my personal website!
 - 📧 Anibaliym@gmail.com

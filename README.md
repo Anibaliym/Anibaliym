@@ -16,5 +16,6 @@
 - [My Portfolio App](https://github.com/Anibaliym/my-portfolio-app-frontend) - A portfolio to showcase my projects and skills.  
 
 ### 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/anibal-ya%C3%B1ez-moraga-568b67113/)  
-- 📧 Anibaliym@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anibal-ya%C3%B1ez-moraga-568b67113/)  
+- 🌐 [yaanez.cl](https://yaanez.cl) — ¡Visita mi página personal!
+- 📧 Anibaliym@gmail.com
